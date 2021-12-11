@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharanshG
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on NFT solutions, ERC Standard implementation and other interesting Blockchain implementations
+- 💞️ I’m looking to collaborate on NFT solutions, ERC Standard implementation and other interesting Blockchain projects
 - 📫 How to reach me : You can contact me on sharanshguha@gmail.com
 
 <!---
